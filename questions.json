@@ -1,34 +1,82 @@
 [
   {
-    "question": "Lambang Negara Indonesia adalah Garuda dengan semboyan Bhinneka Tunggal Ika, sebagaimana tercantum dalam UUD 1945 Pasal 36 A yang merupakan hasil amandemen....",
-    "choice1": "Kesatu",
-    "choice2": "Kedua",
-    "choice3": "Ketiga",
-    "choice4": "Keempat",
+    "question": "Siapakah Public Figure yang baru-baru ini ketahuan kabur dari karantina ?",
+    "choice1": "Anya Geraldine",
+    "choice2": "Rachel Vennya",
+    "choice3": "Nikita Mirzani",
+    "choice4": "Gading Martin",
     "answer": 2
   },
   {
-    "question": "Pancasila berisi anggapan-anggapan dasar yang merupakan kerangka keyakinan yang berfungsi sebagai acuan, pedoman dalam perencanaan, pelaksanaan, pengawasan, dan pemanfaatan hasil-hasil pembangunan nasional merupakan pengertian dari Pancasila sebagai...",
-    "choice1": "ideologi bangsa",
-    "choice2": "paradigma pembangunan",
-    "choice3": "falsafah pembangunan",
-    "choice4": "dasar negara",
+    "question": "Siapakah Youtuber(person) yang memiliki subscriber terbanyak di Dunia ?",
+    "choice1": "Atta Halilintar",
+    "choice2": "T-Series",
+    "choice3": "PewDiePie",
+    "choice4": "MrBeast",
+    "answer": 3
+  },
+  {
+    "question": "Siapakah nama bapak-bapak yang dimarahi oleh artis yang dianggap meminta-minta kepada artis tersebut ?",
+    "choice1": "Bapak Suhut",
+    "choice2": "Bapak Supri",
+    "choice3": "Bapak Tatang",
+    "choice4": "Bapak Ruslan",
+    "answer": 1
+  },
+  {
+    "question": "Siapakah Creator OnlyFans Kembar asal Indonesia yang tinggal di Australia dan terkenal karena video-videonya yang membahana ?",
+    "choice1": "The Loco Twins",
+    "choice2": "Azalia & Azaria",
+    "choice3": "The Chetizsa twins",
+    "choice4": "The Connel Twins",
+    "answer": 4
+  },
+  {
+    "question": "Siapa saja nama Selebritas yang terdapat dalam kasus video Ariel Noah pada tahun 2010 ?",
+    "choice1": "Lucinta Luna & Millen Cyrus",
+    "choice2": "Sasha Charisa & Cut Tari",
+    "choice3": "Cut Tari & Luna Maya",
+    "choice4": "Luna Maya & Millen Cyrus",
+    "answer": 3
+  },
+  {
+    "question": "Apa nama film terbaru dari Marvel di pertengahan tahun 2021 ?",
+    "choice1": "Shang-Chi and the Legend of Shadow",
+    "choice2": "Shang-Chi and the Legend of the Ten Rings",
+    "choice3": "Shang-Chi Homecoming",
+    "choice4": "Shang-Li and the Legend of the Nine Rings",
     "answer": 2
   },
   {
-    "question": "Keragaman masyarakat Indonesia berdasarkan keagamaan ditandai dengan...",
-    "choice1": "terdapat kebebasan dalam kegiatan dakwah atau ceramah keagamaan",
-    "choice2": "diakuinya berbagai agama dan para pemeluknya",
-    "choice3": "terjadinya konflik antarumat beragama",
-    "choice4": "terdapat salah satu agama mayoritas di tengah-tengah masyarakat",
-    "answer": 2
+    "question": "Lagu apa yang paling banyak diputar di Youtube ?",
+    "choice1": "Shape of You by Ed Sheeran",
+    "choice2": "Johny Johny Yes Papa by Cocomelon",
+    "choice3": "Kiss and Make Up by Dua Lipa & BLACKPINK",
+    "choice4": "Baby-Shark by Pinkfong",
+    "answer": 4
   },
   {
-    "question": "Keragaman masyarakat Indolnesia berdasarkan keagamaan ditandai dengan...",
-    "choice1": "terdapat kebebasan dalam kegiatan dakwah atau ceramah keagamaan",
-    "choice2": "diakuinya berbagai agama dan para pemeluknya",
-    "choice3": "terjadinya konflik antarumat beragama",
-    "choice4": "terdapat salah satu agama mayoritas di tengah-tengah masyarakat",
-    "answer": 2
+    "question": "Group Boyband apa yang menjadi duet Coldplay baru-baru ini ?",
+    "choice1": "BTS",
+    "choice2": "Super Junior",
+    "choice3": "GOT7",
+    "choice4": "EXO",
+    "answer": 1
+  },
+  {
+    "question": "Platfrom Media apa yang paling banyak digunakan saat ini ?",
+    "choice1": "TikTok",
+    "choice2": "Instagram",
+    "choice3": "Youtube",
+    "choice4": "Twitter",
+    "answer": 3
+  },
+  {
+    "question": "Kanye West telah ganti nama, nama apa yang dipake Kanye West saat ini ?",
+    "choice1": "Ye",
+    "choice2": "The East",
+    "choice3": "Nye",
+    "choice4": "Kanye West",
+    "answer": 1
   }
 ]
