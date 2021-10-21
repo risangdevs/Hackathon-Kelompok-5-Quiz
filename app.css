@@ -1,14 +1,14 @@
 :root {
-  background-color: rgb(255, 0, 0);
+  background-color: #f49366;
   font-size: 62.5%;
 }
 
 * {
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Comic Sans, Comic Sans MS, cursive;
   margin: 0;
   padding: 0;
-  color: white;
+  color: #303c6c;
 }
 
 h1,
@@ -20,8 +20,8 @@ h4 {
 
 h1 {
   font-size: 5.4rem;
-  color: white;
-  margin-bottom: 5rem;
+  color: #303c6c;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -40,19 +40,25 @@ h3 {
   font-size: 2.8rem;
   font-weight: 500;
 }
+img {
+  padding: 10px;
+  border: solid 2px #303c6c;border-radius: 10px;
+  margin: 1px;
+}
 
 /* UTILITIES */
 
 .container {
   width: 100vw;
-  height: 100vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
   max-width: 80rem;
   margin: 10px auto;
   padding: 4rem;
-  border: solid white;
+  border: solid #303c6c;border-radius: 10px;box-shadow: #303c6c 5px 10px;
+  background-color: #f9e69f;
 }
 
 .container > * {
@@ -87,11 +93,12 @@ h3 {
   padding: 1rem 0;
   width: 20rem;
   text-align: center;
-  border: 0.2rem solid white;
+  border: 0.2rem solid #303c6c;border-radius: 10px;
   margin-bottom: 1rem;
   text-decoration: none;
-  color: white;
-  background-color: rgb(255, 0, 0);
+  color: #303c6c;
+  background-color: #d1feff;
+  margin: 5px;
 }
 
 .btn:hover {
