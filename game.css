@@ -59,10 +59,12 @@
   height: 4rem;
   border: 0.3rem solid #303c6c;
   margin-top: 1.6rem;
+  border-radius: 10px
 }
 
 #progressBarFull {
   height: 3.4rem;
   background-color: #f49366;
   width: 0%;
+  border-radius: 6px
 }
