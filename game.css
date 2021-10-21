@@ -31,7 +31,11 @@
 }
 
 .incorrect {
-  background-color: #e6f55e;
+  background-color: #f10202;
+}
+
+.incorrect .choice-text {
+  color: white;
 }
 
 /* HUD */
