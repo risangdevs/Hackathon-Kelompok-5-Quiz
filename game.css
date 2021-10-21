@@ -16,14 +16,14 @@
 
 .choice-prefix {
   padding: 1.5rem 2.5rem;
-  background-color: rgb(255, 0, 0);
-  color: white;
+  background-color: #303c6c;
+  color: #f9e69f;
 }
 
 .choice-text {
   padding: 1.5rem;
   width: 100%;
-  color: rgb(255, 0, 0);
+  color: #303c6c;
 }
 
 .correct {
@@ -53,12 +53,12 @@
 #progressBar {
   width: 20rem;
   height: 4rem;
-  border: 0.3rem solid white;
+  border: 0.3rem solid #303c6c;
   margin-top: 1.6rem;
 }
 
 #progressBarFull {
   height: 3.4rem;
-  background-color: white;
+  background-color: #f49366;
   width: 0%;
 }
