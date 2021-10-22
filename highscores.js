@@ -1,6 +1,8 @@
 const highScoresList = document.getElementById("highScoresList");
 
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
+var audio = document.getElementById("myaudio");
+audio.volume = 0.4;
 
 highScoresList.innerHTML = highScores
 

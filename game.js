@@ -10,6 +10,8 @@ let questionCounter = 0;
 let availableQuesions = [];
 
 let questions = [];
+var audio = document.getElementById("myaudio");
+audio.volume = 0.2;
 
 fetch("questions.json")
   .then((res) => {

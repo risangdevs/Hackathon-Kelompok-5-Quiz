@@ -7,7 +7,8 @@ const statusPemain = document.getElementById("statusPemain");
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
 const MAX_HIGH_SCORES = 5;
-
+var audio = document.getElementById("myaudio");
+audio.volume = 0.4;
 finalScore.innerText = mostRecentScore;
 
 console.log(mostRecentScore);
