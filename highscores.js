@@ -1,28 +1,35 @@
 const highScoresList = document.getElementById("highScoresList");
+let oldplayer = [
+  { score: 100, name: "Risang" },
+  { score: 100, name: "Dika" },
+];
+localStorage.highScores = JSON.stringify(oldplayer);
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
 highScoresList.innerHTML = highScores
+
   .map((score) => {
-    let nilai = Number(score.score)
-    let status = ''
+    let nilai = Number(score.score);
+    let status = "";
     if (nilai === 100) {
-      status = 'admin lambe turah'
+      status = "admin lambe turah";
     } else if (nilai >= 80 && nilai <= 90) {
-      status = 'K-popers'
+      status = "K-popers";
     } else if (nilai >= 60 && nilai <= 70) {
-      status = 'kaum rebahan'
+      status = "kaum rebahan";
     } else if (nilai >= 30 && nilai <= 50) {
-      status = 'netizen budiman'
+      status = "netizen budiman";
     } else if (nilai >= 10 && nilai <= 20) {
-      status = 'kuper'
+      status = "kuper";
     } else if (nilai === 0) {
-      status = 'manusia goa'
+      status = "manusia goa";
     }
     return `<li class="high-score">${score.name} - ${score.score} - ${status}</li>`;
   })
   .join("");
 
-  resetHighScore = (e) => {
-    localStorage.clear()
-    highScoresList.innerHTML = ""
-  }
+resetHighScore = (e) => {
+  localStorage.clear();
+  // isReset = true;
+  highScoresList.innerHTML = "";
+};
