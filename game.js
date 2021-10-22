@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [];
 var audio = document.getElementById("myaudio");
-audio.volume = 0.2;
+audio.volume = 0.15;
 
 fetch("questions.json")
   .then((res) => {
