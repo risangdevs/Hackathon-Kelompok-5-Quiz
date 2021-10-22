@@ -1,9 +1,5 @@
 const highScoresList = document.getElementById("highScoresList");
-let oldplayer = [
-  { score: 100, name: "Risang" },
-  { score: 100, name: "Dika" },
-];
-localStorage.highScores = JSON.stringify(oldplayer);
+
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
 highScoresList.innerHTML = highScores
