@@ -2,7 +2,7 @@ const highScoresList = document.getElementById("highScoresList");
 
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 var audio = document.getElementById("myaudio");
-audio.volume = 0.4;
+audio.volume = 0.2;
 
 highScoresList.innerHTML = highScores
 
