@@ -40,7 +40,7 @@
     "answer": 3
   },
   {
-    "question": "Apa nama film terbaru dari Marvel di pertengahan tahun 2021 ?",
+    "question": "Apa nama film terbaru dari Marvel di pertengahan akhir tahun 2021 ?",
     "choice1": "Shang-Chi and the Legend of Shadow",
     "choice2": "Shang-Chi and the Legend of the Ten Rings",
     "choice3": "Shang-Chi Homecoming",
@@ -78,5 +78,45 @@
     "choice3": "Nye",
     "choice4": "Kanye West",
     "answer": 1
+  },
+  {
+    "question": "Local brand Indonesia apakah yang baru-baru ini mengadakan fashion show di New York ?",
+    "choice1": "Billionaires Project",
+    "choice2": "Erigo",
+    "choice3": "Provider",
+    "choice4": "YOGS",
+    "answer": 2
+  },
+  {
+    "question": "Siapakah ayah dari 'X AE A-12' ?",
+    "choice1": "Steve Jobs",
+    "choice2": "Elon Musk",
+    "choice3": "Rizky Billar",
+    "choice4": "Robert Downey Jr",
+    "answer": 2
+  },
+  {
+    "question": "Apple baru-baru ini mengeluarkan processor baru untuk MacBooknya, processor apa yang dipake Apple untuk MacBook terbarunya ?",
+    "choice1": "Bionic 1",
+    "choice2": "A13",
+    "choice3": "Apple Intel",
+    "choice4": "M1",
+    "answer": 4
+  },
+  {
+    "question": "Selain bahasa inggris, skill apa lagi yang menurut Pak Jokowi perlukan dimasa mendatang, menurut statement Pak Jokowi beberapa waktu lalu ?",
+    "choice1": "Propgramming",
+    "choice2": "Memasak",
+    "choice3": "Mencuci",
+    "choice4": "Bermain Game",
+    "answer": 1
+  },
+  {
+    "question": "Kartun apa yang terkenal karena memiliki banyak konspirasi dan prediksi atas kejadian-kejadian di bumi ?",
+    "choice1": "Doraemon",
+    "choice2": "Si Juki",
+    "choice3": "The Simpson",
+    "choice4": "Chibi Maruko Chan",
+    "answer": 3
   }
 ]
