@@ -155,7 +155,7 @@ input::placeholder {
 }
 @media screen and (max-width: 600px) {
   .container {
-    width: 450px;
+    width: 330px;
   }
   .logo img {
     width: 300px;
